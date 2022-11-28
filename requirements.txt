@@ -1,1 +1,3 @@
 bluepy
+beautifulsoup4
+requests
